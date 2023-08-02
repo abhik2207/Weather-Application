@@ -60,6 +60,7 @@ body {
 
 .search button:active {
     transform: scale(0.9);
+    cursor: grabbing;
 }
 
 .weather-icon {
